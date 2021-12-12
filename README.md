@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 - ⚡ Junior Data Scientist [@Sdaia Academy]
-- 🌱 I’m currently learning Data Scientist & Artificial Intelligence
+- 🌱 I’m currently learning Data Scientis & Artificial Intelligence
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with improving my work
 - 💬 Ask me about anything
