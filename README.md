@@ -1,19 +1,6 @@
 ### Hello World, I'm Zainah 👋
-
-<!--
-**ZainahAlshehri/ZainahAlshehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## i'm work harder!!
 - ⚡ Junior Data Scientist [@Sdaia Academy]
 - 🌱 I’m currently learning Data Scientis & Artificial Intelligence
@@ -28,14 +15,12 @@
 
 <br />
 
---------
-
-### Talk with me, I am kinda awesome:)
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+------
 
 ### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -49,8 +34,8 @@
 
 <br />
 <br />
----
 
+<!---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -63,7 +48,7 @@
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
-</details>
+</details> --->
 
 [linkedin]: https://www.linkedin.com/in/zainahalshehri
 [@Sdaia Academy]: https://academy.sdaia.gov.sa/
