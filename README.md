@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Junior Data Scientist [@Sdaia Academ]
+- ⚡ Junior Data Scientist [@Sdaia Academy]
 - 🌱 I’m currently learning Data Scientist & Artificial Intelligence
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with improving my work
@@ -84,4 +84,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/zainahalshehri
-[@Sdaia Academ]: https://academy.sdaia.gov.sa/
+[@Sdaia Academy]: https://academy.sdaia.gov.sa/
