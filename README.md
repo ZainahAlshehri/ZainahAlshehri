@@ -1,7 +1,7 @@
 ### Hello World, I'm Zainah 👋
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## i'm work harder!!
+## I'm hard worker!!
 - ⚡ Junior Data Scientist [@Sdaia Academy]
 - 🌱 I’m currently learning Data Scientis & Artificial Intelligence
 - 👯 I’m looking to collaborate on interesting projects
