@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with improving my skils
 - 💬 Ask me about anything
-- 📫 How to reach me: email : zeinahalshehri@gmail.com
+- 📫 How to reach me: zeinahalshehri@gmail.com
 -  ⚡ Fun fact:
 
 ### Talk with me, I am kinda awesome:)
