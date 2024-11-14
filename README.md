@@ -44,4 +44,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/zainahalshehri
-[@Sdaia Academy]: https://academy.sdaia.gov.sa/
+[@Sdaia Academy]: https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/AboutSdaiaAcademy.aspx
